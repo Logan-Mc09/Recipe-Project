@@ -1,0 +1,22 @@
+.title{
+    color: black;
+    text-align: center;
+    font-weight: bold;
+    background-color: white;
+    font-size: 60px;
+}
+
+.image{
+    text-align: center;
+    width: 1000px;
+    height: auto;
+}
+
+.recipe{
+    text-align: center;
+
+}
+
+.name{
+    text-align: center;
+}
